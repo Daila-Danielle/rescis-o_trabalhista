@@ -1,3 +1,6 @@
+/*compilar no site https://www.onlinegdb.com/ */
+
+
 #include <time.h>
 #include <stdio.h>
 #include <stdlib.h>
